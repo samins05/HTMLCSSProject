@@ -1,4 +1,6 @@
 .card{
-width:500px;
-height:100px;
+    display:flex;
+    flex-direction:row;
+width:800px;
+height:300px;
 }
